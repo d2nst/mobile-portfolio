@@ -202,12 +202,12 @@
           메가박스 모바일 앱의 UI/UX를 사용자가 보기쉽게 디자인하였고, 디자인 툴
           Adobe XD를 사용하여 진행했습니다
         </p>
-        <p>제작기간 : 2022-05-17 ~ 05-18</p>
+        <p>제작기간 : 2022-08-08 ~ 08-10</p>
         <div class="icon-group">
           <img src="../assets/images/pp-icon/html@2x.png" alt="html icon" />
           <img src="../assets/images/pp-icon/css@2x.png" alt="css icon" />
         </div>
-        <a href="#" target="_blank"
+        <a href="https://app-project1.netlify.app" target="_blank"
           >GO SITE <i class="xi-angle-right-min"></i
         ></a>
       </div>

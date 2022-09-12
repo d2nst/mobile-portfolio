@@ -78,6 +78,7 @@ export default {
 #app {
   width: 100%;
   overflow: hidden;
+
   .sidenav {
     background-color: $bg-color3;
     width: 255px;
